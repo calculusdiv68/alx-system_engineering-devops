@@ -1,1 +1,2 @@
-Printing the absolute working path
+#!/bin/bash
+Printing the absolute working path.

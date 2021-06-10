@@ -1,2 +1,4 @@
 #!/bin/bash
-every about permissions
+su is for changing user
+
+

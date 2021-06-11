@@ -1,2 +1,1 @@
-#!/bin/bash
-Printing the absolute working path.
+This project is a based on understanding the basic shell commands.

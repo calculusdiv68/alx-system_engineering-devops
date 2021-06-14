@@ -1,2 +1,2 @@
 #!/bin/bash
-About mastery unix commands
+About mastring unix command

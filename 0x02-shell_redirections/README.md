@@ -1,4 +1,4 @@
-1.Echo command to print to the termina \n
+1.Echo command to print to the terminal\
 2. cat command to print the whole content of a file \n
 3. head command to list the first 10 lines of a file\n
 4. tail command to print the last 10 lines of a file \n
